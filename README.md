@@ -6,7 +6,7 @@ This repository provides a curated list of YouTube channels and playlists for le
 
 ## Beginner Level 🎯
 
-- [ ] **[1_STM32 Beginner Guide Tutorial Series using STM32F401RE](https://www.youtube.com/playlist?list=PLGh4659DkyarOFZVtnah4KORCJzuPbWg_)**  
+1 - [ ] **[STM32 Beginner Guide Tutorial Series using STM32F401RE](https://www.youtube.com/playlist?list=PLGh4659DkyarOFZVtnah4KORCJzuPbWg_)**  
   Aimed at beginners, focusing on hands-on development.
 
 - [ ] **[Starting with STM32 - Programming Tutorial for Beginners](https://www.youtube.com/watch?v=dnfuNT1dPiM)**  
