@@ -4,34 +4,6 @@ This repository provides a curated list of YouTube channels and playlists for le
 
 ---
 
-## Beginner Level 🎯
-
-- [ ] **[STM32 Beginner Guide Tutorial Series using STM32F401RE](https://www.youtube.com/playlist?list=PLGh4659DkyarOFZVtnah4KORCJzuPbWg_)**  
-  Aimed at beginners, focusing on hands-on development.
-
-- [ ] **[Starting with STM32 - Programming Tutorial for Beginners](https://www.youtube.com/watch?v=dnfuNT1dPiM)**  
-  Step-by-step beginner-friendly guide.
-
-- [ ] **[GPIO Programming Basics - STM32 Tutorial](https://www.youtube.com/watch?v=YNeOotn4jsc)**  
-  Learn fundamental GPIO concepts with STM32.
-
-- [ ] **[STM32CubeIDE for Beginners](https://www.youtube.com/playlist?list=PLWk49HLpWHRBDgLC2A1IIEOTtnplSgvJ8)**  
-  Start learning STM32CubeIDE from scratch.
-
-- [ ] **[Getting Started with STM32](https://www.youtube.com/watch?v=fcm5wmtgkcc)**  
-  Covers the basics of the STM32 ecosystem and setup.
-
----
-
-## Intermediate Level ⚙️
-
-- [ ] **[Master STM32 Microcontroller Tutorials](https://www.youtube.com/playlist?list=PLtVUYRe-Z-mfKO0lg_-MBvwWl6VjWT8Dt)**  
-# STM32 Learning Resources
-
-This repository provides a curated list of YouTube channels and playlists for learning STM32 microcontroller programming. The resources are organized by difficulty level to support learners from beginner to advanced stages. Use the checkboxes to track your progress as you explore each resource.
-
----
-
 ## 1. Beginner Level 🎯
 
 1. **[STM32 Beginner Guide Tutorial Series using STM32F401RE](https://www.youtube.com/playlist?list=PLGh4659DkyarOFZVtnah4KORCJzuPbWg_)**  
