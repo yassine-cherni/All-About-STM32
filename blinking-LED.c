@@ -12,3 +12,15 @@ while (1)
 
     /* USER CODE END WHILE */
 }
+
+// or
+
+while (1)
+{
+    /* USER CODE BEGIN WHILE */
+
+    HAL_GPIO_TogglePin(GPIOB, GPIO_PIN_5);  // Toggle the state of PB5
+    HAL_Delay(250);  // Wait for 250 milliseconds
+
+    /* USER CODE END WHILE */
+}
