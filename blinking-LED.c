@@ -24,3 +24,4 @@ while (1)
 
     /* USER CODE END WHILE */
 }
+HAL_GPIO_WritePin(GPIOB, GPIO_pin_5, GPIO_PIN_SET);
